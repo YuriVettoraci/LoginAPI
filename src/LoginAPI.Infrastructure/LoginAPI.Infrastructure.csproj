@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\LoginAPI.Domain\LoginAPI.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disabled</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="FluentNHibernate" Version="3.2.0" />
+		<PackageReference Include="System.Linq.Dynamic.Core" Version="1.3.2" />
+	</ItemGroup>
+
+</Project>

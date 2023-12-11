@@ -1,0 +1,15 @@
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\bin\Debug\net8.0\LoginAPI.Domain.deps.json
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\bin\Debug\net8.0\LoginAPI.Domain.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\bin\Debug\net8.0\LoginAPI.Domain.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\bin\Debug\net8.0\LoginAPI.DataTransfer.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\bin\Debug\net8.0\LoginAPI.DataTransfer.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\LoginAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\LoginAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\LoginAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\LoginAPI.Domain.AssemblyInfo.cs
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\LoginAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\LoginAPI.Domain.csproj.CopyComplete
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\LoginAPI.Domain.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\refint\LoginAPI.Domain.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\LoginAPI.Domain.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Domain\obj\Debug\net8.0\ref\LoginAPI.Domain.dll

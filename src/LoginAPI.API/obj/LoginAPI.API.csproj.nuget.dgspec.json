@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.API\\LoginAPI.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.API\\LoginAPI.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.API\\LoginAPI.API.csproj",
+        "projectName": "LoginAPI.API",
+        "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.API\\LoginAPI.API.csproj",
+        "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Application\\LoginAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Application\\LoginAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Application\\LoginAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Application\\LoginAPI.Application.csproj",
+        "projectName": "LoginAPI.Application",
+        "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Application\\LoginAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.DataTransfer\\LoginAPI.DataTransfer.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.DataTransfer\\LoginAPI.DataTransfer.csproj"
+              },
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Domain\\LoginAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Domain\\LoginAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.DataTransfer\\LoginAPI.DataTransfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.DataTransfer\\LoginAPI.DataTransfer.csproj",
+        "projectName": "LoginAPI.DataTransfer",
+        "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.DataTransfer\\LoginAPI.DataTransfer.csproj",
+        "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.DataTransfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Domain\\LoginAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Domain\\LoginAPI.Domain.csproj",
+        "projectName": "LoginAPI.Domain",
+        "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Domain\\LoginAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.DataTransfer\\LoginAPI.DataTransfer.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\testecognito\\cognitoApi\\src\\LoginAPI.DataTransfer\\LoginAPI.DataTransfer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

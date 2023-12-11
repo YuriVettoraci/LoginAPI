@@ -1,0 +1,15 @@
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\bin\Debug\net8.0\LoginAPI.Application.deps.json
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\bin\Debug\net8.0\LoginAPI.Application.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\bin\Debug\net8.0\LoginAPI.Application.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\LoginAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\LoginAPI.Application.AssemblyInfoInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\LoginAPI.Application.AssemblyInfo.cs
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\LoginAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\LoginAPI.Application.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\refint\LoginAPI.Application.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\LoginAPI.Application.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\ref\LoginAPI.Application.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\bin\Debug\net8.0\LoginAPI.DataTransfer.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\bin\Debug\net8.0\LoginAPI.DataTransfer.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\LoginAPI.Application.csproj.AssemblyReference.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.Application\obj\Debug\net8.0\LoginAPI.Application.csproj.CopyComplete

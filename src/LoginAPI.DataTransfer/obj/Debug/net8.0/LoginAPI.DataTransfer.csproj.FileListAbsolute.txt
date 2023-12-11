@@ -1,0 +1,11 @@
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\bin\Debug\net8.0\LoginAPI.DataTransfer.deps.json
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\bin\Debug\net8.0\LoginAPI.DataTransfer.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\bin\Debug\net8.0\LoginAPI.DataTransfer.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\obj\Debug\net8.0\LoginAPI.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\obj\Debug\net8.0\LoginAPI.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\obj\Debug\net8.0\LoginAPI.DataTransfer.AssemblyInfo.cs
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\obj\Debug\net8.0\LoginAPI.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\obj\Debug\net8.0\LoginAPI.DataTransfer.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\obj\Debug\net8.0\refint\LoginAPI.DataTransfer.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\obj\Debug\net8.0\LoginAPI.DataTransfer.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\testecognito\cognitoApi\src\LoginAPI.DataTransfer\obj\Debug\net8.0\ref\LoginAPI.DataTransfer.dll

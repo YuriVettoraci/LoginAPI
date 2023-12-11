@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LoginAPI.Application/1.0.0": {
+        "dependencies": {
+          "LoginAPI.DataTransfer": "1.0.0"
+        },
+        "runtime": {
+          "LoginAPI.Application.dll": {}
+        }
+      },
+      "LoginAPI.DataTransfer/1.0.0": {
+        "runtime": {
+          "LoginAPI.DataTransfer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoginAPI.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
